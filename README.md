@@ -142,8 +142,3 @@ SourceMaps have a performance impact on compilation.
 SourceMaps contains your unminimized source code, so you need to restrict access to `build\public\debugging`.
 
 
-## License
-
-Copyright (c) 2012-2015 Tobias Koppers [![Gittip donate button](http://img.shields.io/gittip/sokra.png)](https://www.gittip.com/sokra/)
-
-MIT (http://www.opensource.org/licenses/mit-license.php)
