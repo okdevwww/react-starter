@@ -18,7 +18,7 @@
     "boilerplate",
     "hot"
   ],
-  "author": "Tobias Koppers @sokra",
+  "author": "okdevwww",
   "license": "MIT",
   "dependencies": {
     "async": "^0.9.0",
